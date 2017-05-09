@@ -1,0 +1,6 @@
+c:\users\vadim\Desktop\Проекты\Switch_case\Switch_case\bin\Debug\Switch_case.exe.config
+c:\users\vadim\Desktop\Проекты\Switch_case\Switch_case\bin\Debug\Switch_case.exe
+c:\users\vadim\Desktop\Проекты\Switch_case\Switch_case\bin\Debug\Switch_case.pdb
+c:\users\vadim\Desktop\Проекты\Switch_case\Switch_case\obj\Debug\Switch_case.csprojResolveAssemblyReference.cache
+c:\users\vadim\Desktop\Проекты\Switch_case\Switch_case\obj\Debug\Switch_case.exe
+c:\users\vadim\Desktop\Проекты\Switch_case\Switch_case\obj\Debug\Switch_case.pdb

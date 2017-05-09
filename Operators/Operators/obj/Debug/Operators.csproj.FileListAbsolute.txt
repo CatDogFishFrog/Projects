@@ -1,0 +1,6 @@
+c:\users\vadim\Desktop\Проекты\Operators\Operators\bin\Debug\Operators.exe.config
+c:\users\vadim\Desktop\Проекты\Operators\Operators\bin\Debug\Operators.exe
+c:\users\vadim\Desktop\Проекты\Operators\Operators\bin\Debug\Operators.pdb
+c:\users\vadim\Desktop\Проекты\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+c:\users\vadim\Desktop\Проекты\Operators\Operators\obj\Debug\Operators.exe
+c:\users\vadim\Desktop\Проекты\Operators\Operators\obj\Debug\Operators.pdb

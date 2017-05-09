@@ -1,0 +1,10 @@
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\bin\Release\ForWhileDoWhile.exe.config
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\bin\Release\ForWhileDoWhile.exe
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\bin\Release\ForWhileDoWhile.pdb
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\bin\Release\MetroFramework.dll
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\bin\Release\MetroFramework.Fonts.dll
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.Form1.resources
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.Properties.Resources.resources
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.csproj.GenerateResource.Cache
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.exe
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.pdb

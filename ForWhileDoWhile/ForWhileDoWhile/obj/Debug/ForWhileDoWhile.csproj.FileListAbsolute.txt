@@ -1,0 +1,11 @@
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\bin\Debug\ForWhileDoWhile.exe.config
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\bin\Debug\ForWhileDoWhile.exe
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\bin\Debug\ForWhileDoWhile.pdb
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\bin\Debug\MetroFramework.dll
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\bin\Debug\MetroFramework.Fonts.dll
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\obj\Debug\ForWhileDoWhile.csprojResolveAssemblyReference.cache
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\obj\Debug\ForWhileDoWhile.Form1.resources
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\obj\Debug\ForWhileDoWhile.Properties.Resources.resources
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\obj\Debug\ForWhileDoWhile.csproj.GenerateResource.Cache
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\obj\Debug\ForWhileDoWhile.exe
+c:\users\vadim\Desktop\Проекты\ForWhileDoWhile\ForWhileDoWhile\obj\Debug\ForWhileDoWhile.pdb

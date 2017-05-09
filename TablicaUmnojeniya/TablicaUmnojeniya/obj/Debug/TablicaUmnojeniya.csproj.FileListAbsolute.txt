@@ -1,0 +1,6 @@
+c:\users\vadim\Desktop\Проекты\TablicaUmnojeniya\TablicaUmnojeniya\bin\Debug\TablicaUmnojeniya.exe.config
+c:\users\vadim\Desktop\Проекты\TablicaUmnojeniya\TablicaUmnojeniya\bin\Debug\TablicaUmnojeniya.exe
+c:\users\vadim\Desktop\Проекты\TablicaUmnojeniya\TablicaUmnojeniya\bin\Debug\TablicaUmnojeniya.pdb
+c:\users\vadim\Desktop\Проекты\TablicaUmnojeniya\TablicaUmnojeniya\obj\Debug\TablicaUmnojeniya.csprojResolveAssemblyReference.cache
+c:\users\vadim\Desktop\Проекты\TablicaUmnojeniya\TablicaUmnojeniya\obj\Debug\TablicaUmnojeniya.exe
+c:\users\vadim\Desktop\Проекты\TablicaUmnojeniya\TablicaUmnojeniya\obj\Debug\TablicaUmnojeniya.pdb
