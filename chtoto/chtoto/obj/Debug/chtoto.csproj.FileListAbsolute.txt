@@ -1,9 +1,0 @@
-C:\Users\vadim\Documents\Visual Studio 2017\Projects\chtoto\chtoto\bin\Debug\chtoto.exe.config
-C:\Users\vadim\Documents\Visual Studio 2017\Projects\chtoto\chtoto\bin\Debug\chtoto.exe
-C:\Users\vadim\Documents\Visual Studio 2017\Projects\chtoto\chtoto\bin\Debug\chtoto.pdb
-C:\Users\vadim\Documents\Visual Studio 2017\Projects\chtoto\chtoto\obj\Debug\chtoto.csprojResolveAssemblyReference.cache
-C:\Users\vadim\Documents\Visual Studio 2017\Projects\chtoto\chtoto\obj\Debug\chtoto.Form1.resources
-C:\Users\vadim\Documents\Visual Studio 2017\Projects\chtoto\chtoto\obj\Debug\chtoto.Properties.Resources.resources
-C:\Users\vadim\Documents\Visual Studio 2017\Projects\chtoto\chtoto\obj\Debug\chtoto.csproj.GenerateResource.Cache
-C:\Users\vadim\Documents\Visual Studio 2017\Projects\chtoto\chtoto\obj\Debug\chtoto.exe
-C:\Users\vadim\Documents\Visual Studio 2017\Projects\chtoto\chtoto\obj\Debug\chtoto.pdb
