@@ -1,0 +1,6 @@
+c:\users\vadim\documents\visual studio 2017\Projects\TypeData\TypeData\bin\Debug\TypeData.exe.config
+c:\users\vadim\documents\visual studio 2017\Projects\TypeData\TypeData\bin\Debug\TypeData.exe
+c:\users\vadim\documents\visual studio 2017\Projects\TypeData\TypeData\bin\Debug\TypeData.pdb
+c:\users\vadim\documents\visual studio 2017\Projects\TypeData\TypeData\obj\Debug\TypeData.csprojResolveAssemblyReference.cache
+c:\users\vadim\documents\visual studio 2017\Projects\TypeData\TypeData\obj\Debug\TypeData.exe
+c:\users\vadim\documents\visual studio 2017\Projects\TypeData\TypeData\obj\Debug\TypeData.pdb

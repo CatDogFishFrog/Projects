@@ -1,0 +1,9 @@
+c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\bin\Debug\Karkulator.exe.config
+c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\bin\Debug\Karkulator.exe
+c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\bin\Debug\Karkulator.pdb
+c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\obj\Debug\Karkulator.csprojResolveAssemblyReference.cache
+c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\obj\Debug\Karkulator.Form1.resources
+c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\obj\Debug\Karkulator.Properties.Resources.resources
+c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\obj\Debug\Karkulator.csproj.GenerateResource.Cache
+c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\obj\Debug\Karkulator.exe
+c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\obj\Debug\Karkulator.pdb

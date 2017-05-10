@@ -1,0 +1,6 @@
+c:\users\vadim\documents\visual studio 2017\Projects\chtoto2\chtoto2\bin\Debug\chtoto2.exe.config
+c:\users\vadim\documents\visual studio 2017\Projects\chtoto2\chtoto2\bin\Debug\chtoto2.exe
+c:\users\vadim\documents\visual studio 2017\Projects\chtoto2\chtoto2\bin\Debug\chtoto2.pdb
+c:\users\vadim\documents\visual studio 2017\Projects\chtoto2\chtoto2\obj\Debug\chtoto2.csprojResolveAssemblyReference.cache
+c:\users\vadim\documents\visual studio 2017\Projects\chtoto2\chtoto2\obj\Debug\chtoto2.exe
+c:\users\vadim\documents\visual studio 2017\Projects\chtoto2\chtoto2\obj\Debug\chtoto2.pdb
