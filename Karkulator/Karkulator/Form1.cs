@@ -1,16 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+using MetroFramework.Forms;
 
 namespace Karkulator
 {
-    public partial class Form1 : Form
+    public partial class Form1 : MetroForm
     {
         bool plus = false;
         bool minus = false;
@@ -319,7 +312,7 @@ namespace Karkulator
             {
                 Double k;
                 k = Convert.ToDouble(textBox1.Text);
-                textBox1.Text = (1/k) ;
+                //textBox1.Text = (1/k) ;
             }
             else
             {

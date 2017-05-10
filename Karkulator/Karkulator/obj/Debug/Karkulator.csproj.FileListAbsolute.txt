@@ -7,3 +7,5 @@ c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\obj\D
 c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\obj\Debug\Karkulator.csproj.GenerateResource.Cache
 c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\obj\Debug\Karkulator.exe
 c:\users\vadim\documents\visual studio 2017\Projects\Karkulator\Karkulator\obj\Debug\Karkulator.pdb
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Karkulator\Karkulator\bin\Debug\MetroFramework.dll
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Karkulator\Karkulator\bin\Debug\MetroFramework.Fonts.dll
