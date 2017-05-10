@@ -4,3 +4,9 @@ c:\users\vadim\Desktop\Проекты\TablicaUmnojeniya\TablicaUmnojeniya\bin\De
 c:\users\vadim\Desktop\Проекты\TablicaUmnojeniya\TablicaUmnojeniya\obj\Debug\TablicaUmnojeniya.csprojResolveAssemblyReference.cache
 c:\users\vadim\Desktop\Проекты\TablicaUmnojeniya\TablicaUmnojeniya\obj\Debug\TablicaUmnojeniya.exe
 c:\users\vadim\Desktop\Проекты\TablicaUmnojeniya\TablicaUmnojeniya\obj\Debug\TablicaUmnojeniya.pdb
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\TablicaUmnojeniya\TablicaUmnojeniya\bin\Debug\TablicaUmnojeniya.exe.config
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\TablicaUmnojeniya\TablicaUmnojeniya\bin\Debug\TablicaUmnojeniya.exe
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\TablicaUmnojeniya\TablicaUmnojeniya\bin\Debug\TablicaUmnojeniya.pdb
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\TablicaUmnojeniya\TablicaUmnojeniya\obj\Debug\TablicaUmnojeniya.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\TablicaUmnojeniya\TablicaUmnojeniya\obj\Debug\TablicaUmnojeniya.exe
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\TablicaUmnojeniya\TablicaUmnojeniya\obj\Debug\TablicaUmnojeniya.pdb

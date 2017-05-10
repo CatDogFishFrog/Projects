@@ -4,3 +4,9 @@ c:\users\vadim\Desktop\Проекты\Operators\Operators\bin\Debug\Operators.pd
 c:\users\vadim\Desktop\Проекты\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
 c:\users\vadim\Desktop\Проекты\Operators\Operators\obj\Debug\Operators.exe
 c:\users\vadim\Desktop\Проекты\Operators\Operators\obj\Debug\Operators.pdb
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Operators\Operators\obj\Debug\Operators.pdb
