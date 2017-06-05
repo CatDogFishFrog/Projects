@@ -46,11 +46,13 @@ namespace Опасный_Вирус
             time.Stop();
             button1.Enabled = true;
             button2.Enabled = false;
+            label1.Text = "Заражение приостановлено...";
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             button3.Enabled = false;
+            button2.Enabled = false;
             button1.Enabled = true;
             time.Stop();
             progressBar1.Value = 0;
@@ -60,16 +62,13 @@ namespace Опасный_Вирус
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            DialogResult dialogResult = MessageBox.Show("раіраі", "Выбор", MessageBoxButtons.YesNo);
-            if (dialogResult == DialogResult.Yes)
-            {
-                //do something
-            }
-            else if (dialogResult == DialogResult.No)
-            {
-                MessageBox.Show("пвупке");
-            }
+           
+        }
 
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form2 f2 = new Form2();
+            f2.Show();
         }
     }
 }
