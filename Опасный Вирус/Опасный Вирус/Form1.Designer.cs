@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
@@ -77,6 +78,7 @@
             // 
             // button1
             // 
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.Location = new System.Drawing.Point(23, 89);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(122, 23);
@@ -87,6 +89,7 @@
             // 
             // button2
             // 
+            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button2.Location = new System.Drawing.Point(151, 89);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(143, 23);
@@ -97,6 +100,7 @@
             // 
             // button3
             // 
+            this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button3.Location = new System.Drawing.Point(300, 89);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(137, 23);
@@ -118,6 +122,7 @@
             // 
             // button4
             // 
+            this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button4.Location = new System.Drawing.Point(444, 89);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(137, 23);
@@ -139,6 +144,8 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.progressBar1);
+            this.Cursor = System.Windows.Forms.Cursors.Default;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Супер опасный в мире вирус!";
             this.Load += new System.EventHandler(this.Form1_Load);

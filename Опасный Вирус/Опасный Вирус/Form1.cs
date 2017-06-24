@@ -16,7 +16,6 @@ namespace Опасный_Вирус
         private void button1_Click(object sender, EventArgs e)
         {
             time.Interval = 250;
-            //time.Tick += new EventHandler(IncresaProgressBar);
             time.Start();
             label1.Text = "Заражение началось!";
             button1.Enabled = false;
@@ -38,7 +37,7 @@ namespace Опасный_Вирус
 
         private void progressBar1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Не клацай, блэ!");
+            MessageBox.Show("Не клацай!");
         }
 
         private void button2_Click(object sender, EventArgs e)
