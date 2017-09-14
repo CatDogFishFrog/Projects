@@ -1,6 +1,0 @@
-C:\Users\vadim\documents\visual studio 2017\Projects\Function2StepOrNotToBe\Function2StepOrNotToBe\obj\Debug\Function2StepOrNotToBe.csprojResolveAssemblyReference.cache
-C:\Users\vadim\documents\visual studio 2017\Projects\Function2StepOrNotToBe\Function2StepOrNotToBe\bin\Debug\Function2StepOrNotToBe.exe.config
-C:\Users\vadim\documents\visual studio 2017\Projects\Function2StepOrNotToBe\Function2StepOrNotToBe\bin\Debug\Function2StepOrNotToBe.exe
-C:\Users\vadim\documents\visual studio 2017\Projects\Function2StepOrNotToBe\Function2StepOrNotToBe\bin\Debug\Function2StepOrNotToBe.pdb
-C:\Users\vadim\documents\visual studio 2017\Projects\Function2StepOrNotToBe\Function2StepOrNotToBe\obj\Debug\Function2StepOrNotToBe.exe
-C:\Users\vadim\documents\visual studio 2017\Projects\Function2StepOrNotToBe\Function2StepOrNotToBe\obj\Debug\Function2StepOrNotToBe.pdb

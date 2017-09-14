@@ -1,5 +1,0 @@
-c:\users\vadim\documents\visual studio 2017\Projects\Aboutivanow\Aboutivanow\bin\Debug\Aboutivanow.exe.config
-c:\users\vadim\documents\visual studio 2017\Projects\Aboutivanow\Aboutivanow\bin\Debug\Aboutivanow.exe
-c:\users\vadim\documents\visual studio 2017\Projects\Aboutivanow\Aboutivanow\bin\Debug\Aboutivanow.pdb
-c:\users\vadim\documents\visual studio 2017\Projects\Aboutivanow\Aboutivanow\obj\Debug\Aboutivanow.exe
-c:\users\vadim\documents\visual studio 2017\Projects\Aboutivanow\Aboutivanow\obj\Debug\Aboutivanow.pdb

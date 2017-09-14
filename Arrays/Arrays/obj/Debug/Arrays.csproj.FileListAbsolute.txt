@@ -4,3 +4,10 @@ c:\users\vadim\Desktop\Проекты\Arrays\Arrays\bin\Debug\Arrays.pdb
 c:\users\vadim\Desktop\Проекты\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
 c:\users\vadim\Desktop\Проекты\Arrays\Arrays\obj\Debug\Arrays.exe
 c:\users\vadim\Desktop\Проекты\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\vadim\Desktop\Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\vadim\Desktop\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\vadim\Desktop\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\vadim\Desktop\Projects\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\vadim\Desktop\Projects\Arrays\Arrays\obj\Debug\Arrays.pdb

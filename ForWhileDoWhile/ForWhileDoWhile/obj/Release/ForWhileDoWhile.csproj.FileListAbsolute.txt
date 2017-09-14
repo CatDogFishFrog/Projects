@@ -19,3 +19,15 @@ C:\Users\vadim\Documents\Visual Studio 2017\Projects\ForWhileDoWhile\ForWhileDoW
 C:\Users\vadim\Documents\Visual Studio 2017\Projects\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.csproj.GenerateResource.Cache
 C:\Users\vadim\Documents\Visual Studio 2017\Projects\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.exe
 C:\Users\vadim\Documents\Visual Studio 2017\Projects\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.pdb
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\bin\Release\ForWhileDoWhile.exe.config
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\bin\Release\ForWhileDoWhile.exe
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\bin\Release\ForWhileDoWhile.pdb
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\bin\Release\MetroFramework.dll
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\bin\Release\MetroFramework.Fonts.dll
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.Form1.resources
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.Properties.Resources.resources
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.csproj.GenerateResource.Cache
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.exe
+C:\Users\vadim\Desktop\Projects\ForWhileDoWhile\ForWhileDoWhile\obj\Release\ForWhileDoWhile.pdb

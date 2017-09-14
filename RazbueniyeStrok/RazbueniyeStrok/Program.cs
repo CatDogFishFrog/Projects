@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RazbueniyeStrok
 {
@@ -37,7 +33,7 @@ namespace RazbueniyeStrok
             Console.WriteLine("Измененный текст: {0}",newText);
             Console.ReadLine();
 
-            Console.WriteLine("Опять новая программа\n введите словаіі");
+            Console.WriteLine("Опять новая программа\n введите слова");
             string[] words = Console.ReadLine().Split(' ');
             Console.WriteLine("First: {0}\nLast: {1}",words[0],words[words.Length - 1]);
             Console.ReadKey();

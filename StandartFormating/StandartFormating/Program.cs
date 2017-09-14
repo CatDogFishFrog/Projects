@@ -16,7 +16,7 @@ namespace StandartFormating
             Console.WriteLine(d);
             Console.Write("\nG формат - общий        \t");
             Console.WriteLine("{0,8:G}", d);
-            Console.Write("F формат - с фиксю точкой \t");
+            Console.Write("F формат - с фикс. точкой \t");
             Console.WriteLine("{0,8:F}", d);
             Console.Write("N формат - числовой       \t");
             Console.WriteLine("{0,8:N}", d);

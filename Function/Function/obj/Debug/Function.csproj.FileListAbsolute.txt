@@ -1,6 +1,0 @@
-c:\users\vadim\documents\visual studio 2017\Projects\Function\Function\obj\Debug\Function.csprojResolveAssemblyReference.cache
-c:\users\vadim\documents\visual studio 2017\Projects\Function\Function\bin\Debug\Function.exe.config
-c:\users\vadim\documents\visual studio 2017\Projects\Function\Function\bin\Debug\Function.exe
-c:\users\vadim\documents\visual studio 2017\Projects\Function\Function\bin\Debug\Function.pdb
-c:\users\vadim\documents\visual studio 2017\Projects\Function\Function\obj\Debug\Function.exe
-c:\users\vadim\documents\visual studio 2017\Projects\Function\Function\obj\Debug\Function.pdb

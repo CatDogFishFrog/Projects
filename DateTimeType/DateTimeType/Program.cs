@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DateTimeType
 {
@@ -19,17 +15,33 @@ namespace DateTimeType
             Console.WriteLine("\nВаша фамилия - " + f);
             Console.WriteLine("\nВы родились - " + date2);
             DateTime datenow = DateTime.Now;
-            Console.WriteLine("\nСегодня - " + datenow);
+            string day = Convert.ToString(datenow.DayOfWeek);
+            day = translate_day(day);
+            Console.WriteLine("\nСегодня - " + datenow + " "+ day);
             TimeSpan DaysLive = datenow - date2;
             int i = (DaysLive.Days);
             Console.WriteLine("\nВы прожили - " + i + " дней");
-            Console.WriteLine("\nСколько еще хотите учится?");
+            Console.WriteLine("\nСколько дней еще хотите учится?");
             s = Console.ReadLine();
             datenow = datenow.AddDays(Convert.ToInt32(s));
             Console.WriteLine("\nВы станете умныч " + datenow);
-            Console.WriteLine("\nЭто будет " + datenow.DayOfWeek);
+            day = Convert.ToString(datenow.DayOfWeek);
+            day = translate_day(day);
+            Console.WriteLine("\nЭто будет " + day);
             Console.WriteLine("\nНажмите любую клавишу");
             Console.ReadKey();
+        }
+
+        static String translate_day(string day)
+        {
+            if (day == "Monday") day = "Понедельник";
+            else if (day == "Tuesday") day = "Вторник";
+            else if (day == "Wednesday") day = "Среда";
+            else if (day == "Thursday") day = "Четверг";
+            else if (day == "Friday") day = "Пятница";
+            else if (day == "Saturday") day = "Суббота";
+            else if (day == "Sunday") day = "Воскресенье";
+            return day;
         }
     }
 }

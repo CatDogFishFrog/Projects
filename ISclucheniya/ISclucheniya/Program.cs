@@ -54,7 +54,7 @@ namespace ISclucheniya
             }
             catch(DivideByZeroException e)
             {
-                Console.WriteLine("Попітка деления на 0");
+                Console.WriteLine("Попытка деления на 0");
                 Console.WriteLine(e.ToString());
             }
             finally
