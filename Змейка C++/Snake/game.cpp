@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <conio.h>
 #include <windows.h>
 
@@ -13,11 +13,13 @@ int x, y, fruitX, fruitY, score;
 enum eDirection { STOP = 0, LEFT, RIGHT, UP, DOWN };
 eDirection dir;
 int dif;
+bool acr;
 
 void Setup() {
+	system("cls");
 	gameOver = false;
 	cout << "Select difficulty\n(1 - Very Easy \\ 2 - Easy \\ 3 - Normal \\ 4 - Hard)" << endl;
-	r:
+r:
 	switch (_getch())
 	{
 	case '1':
@@ -34,7 +36,11 @@ void Setup() {
 		break;
 	default:
 		goto r;
+		break;
 	}
+
+	cout << "Walk through walls? (Y\\N)" << endl;	q:	switch (_getch())	{	case 'y':		acr = true;		break;	case 'n':		acr = false;		break;	default:
+		goto q;		break;	}
 
 	dir = STOP;
 	x = width / 2 - 1;
@@ -47,18 +53,18 @@ void Setup() {
 
 void Draw() {
 	system("cls");
-	for (int i = 0; i < width+1; i++)
-		cout <<" #";
+	for (int i = 0; i < width + 1; i++)
+		cout << " #";
 	cout << endl;
 
 	for (int i = 0; i < height; i++) {
 		for (int j = 0; j < width; j++) {
-			if(j==0 || j==width-1)
+			if (j == 0 || j == width - 1)
 				cout << " #";
 			if (i == y && j == x)
 				cout << " 0";
 			else if (i == fruitY && j == fruitX)
-				cout<<" *";
+				cout << " *";
 			else {
 				bool print = false;
 				for (int k = 0; k < nTail; k++) {
@@ -67,7 +73,7 @@ void Draw() {
 						cout << " o";
 					}
 				}
-				if(!print)
+				if (!print)
 					cout << "  ";
 			}
 		}
@@ -83,24 +89,24 @@ void Draw() {
 }
 
 void Input() {
-	
+
 	if (_kbhit()) {
-		switch (_getch() )
+		switch (_getch())
 		{
 		case 'a':
-			if(dir!=RIGHT)
+			if (dir != RIGHT)
 				dir = LEFT;
 			break;
 		case 'd':
-			if(dir!=LEFT)
+			if (dir != LEFT)
 				dir = RIGHT;
 			break;
 		case 'w':
-			if(dir!=DOWN)
-				dir =	UP;
+			if (dir != DOWN)
+				dir = UP;
 			break;
 		case 's':
-			if(dir!=UP)
+			if (dir != UP)
 				dir = DOWN;
 			break;
 		case 'x':
@@ -128,7 +134,7 @@ void Logic() {
 
 	switch (dir)
 	{
-	
+
 	case LEFT:
 		x--;
 		break;
@@ -142,8 +148,8 @@ void Logic() {
 		y++;
 		break;
 	}
-	if (x > width-2 || x<0 || y>height || y < 0)
-		gameOver = true;
+
+	switch (acr)	{	case true:		if (x >= width-1)			x = 0;		else if (x < 0)			x = width - 2;		if (y >= height)			y = 0;		else if (y < 0)			y = height - 1;		break;	case false:		if (x > width - 1 || x<0 || y>height - 1 || y < 0)			gameOver = true;		break;	}
 
 	for (int i = 0; i < nTail; i++) {
 		if (tailX[i] == x&&tailY[i] == y) {
@@ -160,7 +166,7 @@ void Logic() {
 }
 
 int main() {
-	l:
+l:
 	Setup();
 	while (!gameOver)
 	{
@@ -169,9 +175,9 @@ int main() {
 		Input();
 		Logic();
 	}
-	cout << "Game Ower!"<<endl;
-	cout << "Do you want to start the game again? (Y//N)"<<endl;
-	e:
+	cout << "Game Ower!" << endl;
+	cout << "Do you want to start the game again? (Y//N)" << endl;
+e:
 	switch (_getch())
 	{
 	case 'y':
